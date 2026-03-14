@@ -4,7 +4,7 @@
 It features jailbreak injection, a customizable terminal UI, and a lightweight design for fast and flexible LLM interaction.
 
 > ⚡ Lightweight. Powerful. Terminal-native.
-> Built with ❤️ by [@kafyasfngl](https://github.com/kafyasfngl)
+> Built with ❤️ by [Milaslevrail)
 
 ---
 
