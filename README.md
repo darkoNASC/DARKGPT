@@ -91,9 +91,9 @@ You can change the terminal experience to your style:
 
 ## 👨‍💻 Credits
 
-**Author:** [@kafyasfngl](https://github.com/kafyasfngl)
-**Thanks to:** [@neo](https://github.com/realasfngl)
-**Telegram:** [t.me/xsocietyforums](https://t.me/xsocietyforums)
+**crédit:** [@kafyasfngl](https://github.com/kafyasfngl)
+**crédit:** [@neo](https://github.com/realasfngl)
+
 
 ---
 
